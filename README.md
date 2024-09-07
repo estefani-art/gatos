@@ -34,25 +34,5 @@ Adoramos a ideia de ter mais gente apaixonada por gatos ajudando a melhorar o si
 
 **#ilovecat #gatos #felinos #cats #cute #fofo #pet**
 
-**[Inserir aqui um GIF de um gatinho fofo]**
 
-**[Link para o seu repositório no GitHub]**
 
-**Observações:**
-
-* **Personalize:** Adicione mais detalhes sobre o seu projeto, como informações sobre a equipe, como contribuir, etc.
-* **Imagens e GIFs:** Use imagens e GIFs para deixar o README mais divertido e atrativo.
-* **Emojis:** Os emojis ajudam a tornar o texto mais leve e divertido.
-* **Chamada para ação:** Incentive os usuários a contribuírem com o projeto.
-
-**Com este README.md descontraído, você com certeza vai atrair mais pessoas para o seu projeto!** 
-
-**Gostou? Posso te ajudar com algo mais?** 
-
-**Ideias extras:**
-
-* **Crie um banner:** Um banner personalizado pode deixar o seu README ainda mais chamativo.
-* **Adicione um guia rápido de como contribuir:** Explique os passos básicos para quem quiser contribuir com o projeto.
-* **Crie uma seção de agradecimentos:** Agradeça aos colaboradores e à comunidade.
-
-**Lembre-se:** O mais importante é que o README seja claro, conciso e divertido. 
