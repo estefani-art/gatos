@@ -2,12 +2,11 @@ function pesquisar() {
   let section = document.getElementById("resultados-pesquisa");
 
   let input = document.getElementById("gato");
-  let valorDigitado = input.value;
-  // let resultado=` <section  class="resultados-pesquisa" id="resultados-pesquisa">`
+  let valorDigitado = input.value.toLowerCase();
   let resultado = "";
 
   for (let gato of dado) {
-    if (gato.nome.toLowerCase().includes(valorDigitado)) {
+    if (gato.nome.toLowerCase().includes(valorDigitado) || gato.descricao.toLowerCase().includes(valorDigitado) || gato.peso.toLowerCase().includes(valorDigitado)) {
       let nome = gato.nome;
       let peso = gato.peso;
       let descricao = gato.descricao;
