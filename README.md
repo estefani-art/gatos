@@ -1,5 +1,6 @@
 https://gatinhos-zeta.vercel.app/ 
-( Aqui está o link para acessar o site fofinho )
+
+( Aqui está o link para acessar o site. )
 
 ** Ilovecat.❤️: Seu novo melhor amigo felino!**
 
